@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Cristian\\source\\repos\\Personal Proyects\\Prueba\\PruebaTecnicaMidasoft\\pruebaMidasoftBack\\Data\\pruebaMidasoftBack.Data.csproj": {}
+    "C:\\Users\\Cristian\\source\\repos\\Personal Proyects\\Prueba\\PruebaTecnicaMidasoft\\Midasoft\\pruebaMidasoftBack\\Data\\pruebaMidasoftBack.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Cristian\\source\\repos\\Personal Proyects\\Prueba\\PruebaTecnicaMidasoft\\pruebaMidasoftBack\\Core\\pruebaMidasoftBack.Core.csproj": {
+    "C:\\Users\\Cristian\\source\\repos\\Personal Proyects\\Prueba\\PruebaTecnicaMidasoft\\Midasoft\\pruebaMidasoftBack\\Core\\pruebaMidasoftBack.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cristian\\source\\repos\\Personal Proyects\\Prueba\\PruebaTecnicaMidasoft\\pruebaMidasoftBack\\Core\\pruebaMidasoftBack.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Cristian\\source\\repos\\Personal Proyects\\Prueba\\PruebaTecnicaMidasoft\\Midasoft\\pruebaMidasoftBack\\Core\\pruebaMidasoftBack.Core.csproj",
         "projectName": "pruebaMidasoftBack.Core",
-        "projectPath": "C:\\Users\\Cristian\\source\\repos\\Personal Proyects\\Prueba\\PruebaTecnicaMidasoft\\pruebaMidasoftBack\\Core\\pruebaMidasoftBack.Core.csproj",
+        "projectPath": "C:\\Users\\Cristian\\source\\repos\\Personal Proyects\\Prueba\\PruebaTecnicaMidasoft\\Midasoft\\pruebaMidasoftBack\\Core\\pruebaMidasoftBack.Core.csproj",
         "packagesPath": "C:\\Users\\Cristian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cristian\\source\\repos\\Personal Proyects\\Prueba\\PruebaTecnicaMidasoft\\pruebaMidasoftBack\\Core\\obj\\",
+        "outputPath": "C:\\Users\\Cristian\\source\\repos\\Personal Proyects\\Prueba\\PruebaTecnicaMidasoft\\Midasoft\\pruebaMidasoftBack\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Cristian\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\Cristian\\source\\repos\\Personal Proyects\\Prueba\\PruebaTecnicaMidasoft\\pruebaMidasoftBack\\Data\\pruebaMidasoftBack.Data.csproj": {
+    "C:\\Users\\Cristian\\source\\repos\\Personal Proyects\\Prueba\\PruebaTecnicaMidasoft\\Midasoft\\pruebaMidasoftBack\\Data\\pruebaMidasoftBack.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cristian\\source\\repos\\Personal Proyects\\Prueba\\PruebaTecnicaMidasoft\\pruebaMidasoftBack\\Data\\pruebaMidasoftBack.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Cristian\\source\\repos\\Personal Proyects\\Prueba\\PruebaTecnicaMidasoft\\Midasoft\\pruebaMidasoftBack\\Data\\pruebaMidasoftBack.Data.csproj",
         "projectName": "pruebaMidasoftBack.Data",
-        "projectPath": "C:\\Users\\Cristian\\source\\repos\\Personal Proyects\\Prueba\\PruebaTecnicaMidasoft\\pruebaMidasoftBack\\Data\\pruebaMidasoftBack.Data.csproj",
+        "projectPath": "C:\\Users\\Cristian\\source\\repos\\Personal Proyects\\Prueba\\PruebaTecnicaMidasoft\\Midasoft\\pruebaMidasoftBack\\Data\\pruebaMidasoftBack.Data.csproj",
         "packagesPath": "C:\\Users\\Cristian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cristian\\source\\repos\\Personal Proyects\\Prueba\\PruebaTecnicaMidasoft\\pruebaMidasoftBack\\Data\\obj\\",
+        "outputPath": "C:\\Users\\Cristian\\source\\repos\\Personal Proyects\\Prueba\\PruebaTecnicaMidasoft\\Midasoft\\pruebaMidasoftBack\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Cristian\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -92,8 +92,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Cristian\\source\\repos\\Personal Proyects\\Prueba\\PruebaTecnicaMidasoft\\pruebaMidasoftBack\\Core\\pruebaMidasoftBack.Core.csproj": {
-                "projectPath": "C:\\Users\\Cristian\\source\\repos\\Personal Proyects\\Prueba\\PruebaTecnicaMidasoft\\pruebaMidasoftBack\\Core\\pruebaMidasoftBack.Core.csproj"
+              "C:\\Users\\Cristian\\source\\repos\\Personal Proyects\\Prueba\\PruebaTecnicaMidasoft\\Midasoft\\pruebaMidasoftBack\\Core\\pruebaMidasoftBack.Core.csproj": {
+                "projectPath": "C:\\Users\\Cristian\\source\\repos\\Personal Proyects\\Prueba\\PruebaTecnicaMidasoft\\Midasoft\\pruebaMidasoftBack\\Core\\pruebaMidasoftBack.Core.csproj"
               }
             }
           }

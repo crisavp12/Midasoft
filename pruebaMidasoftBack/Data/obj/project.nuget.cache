@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G3+r6KG5uZA09rO6XisLrLEl5vmHYF7M9L5Me8EONFynW0oip0oRN+xaSNaHIpjfML8BFacSgp4ft2ekoZy8IQ==",
+  "dgSpecHash": "C0cWxMhzIInyvv9NAZwgpIX9FXXenlMROOkqpjuMzQtD/5JSQNLFrMmOOdnHOmUMGP1Y9qiJs2Ms2TvNsR9rhg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Cristian\\source\\repos\\Personal Proyects\\Prueba\\PruebaTecnicaMidasoft\\pruebaMidasoftBack\\Data\\pruebaMidasoftBack.Data.csproj",
+  "projectFilePath": "C:\\Users\\Cristian\\source\\repos\\Personal Proyects\\Prueba\\PruebaTecnicaMidasoft\\Midasoft\\pruebaMidasoftBack\\Data\\pruebaMidasoftBack.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Cristian\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Cristian\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gVBRyrGylhImKTPniPvsgxOvVpbk9U0l6wqgCh30sFOXiqGS6OObykNWRPnw4UboY2CZH5bbU5a63wJ3FqxQRw==",
+  "dgSpecHash": "Cu0HnoODQ37OcUOZEE1rGxpOOUAWGvBhHm748uRN8qxttWJoiA/CWU4IhENwT4QwtELW8rTxWLTtwTYiL1vH5g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Cristian\\source\\repos\\Personal Proyects\\Prueba\\PruebaTecnicaMidasoft\\pruebaMidasoftBack\\pruebaMidasoftBack\\pruebaMidasoftBack.Api.csproj",
+  "projectFilePath": "C:\\Users\\Cristian\\source\\repos\\Personal Proyects\\Prueba\\PruebaTecnicaMidasoft\\Midasoft\\pruebaMidasoftBack\\pruebaMidasoftBack\\pruebaMidasoftBack.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Cristian\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Cristian\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

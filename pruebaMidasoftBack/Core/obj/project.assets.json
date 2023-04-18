@@ -155,11 +155,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cristian\\source\\repos\\Personal Proyects\\Prueba\\PruebaTecnicaMidasoft\\pruebaMidasoftBack\\Core\\pruebaMidasoftBack.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Cristian\\source\\repos\\Personal Proyects\\Prueba\\PruebaTecnicaMidasoft\\Midasoft\\pruebaMidasoftBack\\Core\\pruebaMidasoftBack.Core.csproj",
       "projectName": "pruebaMidasoftBack.Core",
-      "projectPath": "C:\\Users\\Cristian\\source\\repos\\Personal Proyects\\Prueba\\PruebaTecnicaMidasoft\\pruebaMidasoftBack\\Core\\pruebaMidasoftBack.Core.csproj",
+      "projectPath": "C:\\Users\\Cristian\\source\\repos\\Personal Proyects\\Prueba\\PruebaTecnicaMidasoft\\Midasoft\\pruebaMidasoftBack\\Core\\pruebaMidasoftBack.Core.csproj",
       "packagesPath": "C:\\Users\\Cristian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Cristian\\source\\repos\\Personal Proyects\\Prueba\\PruebaTecnicaMidasoft\\pruebaMidasoftBack\\Core\\obj\\",
+      "outputPath": "C:\\Users\\Cristian\\source\\repos\\Personal Proyects\\Prueba\\PruebaTecnicaMidasoft\\Midasoft\\pruebaMidasoftBack\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Cristian\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,12 @@
+C:\Users\Cristian\source\repos\Personal Proyects\Prueba\PruebaTecnicaMidasoft\pruebaMidasoftBack\Core\bin\Debug\net6.0\pruebaMidasoftBack.Core.deps.json
+C:\Users\Cristian\source\repos\Personal Proyects\Prueba\PruebaTecnicaMidasoft\pruebaMidasoftBack\Core\bin\Debug\net6.0\pruebaMidasoftBack.Core.dll
+C:\Users\Cristian\source\repos\Personal Proyects\Prueba\PruebaTecnicaMidasoft\pruebaMidasoftBack\Core\bin\Debug\net6.0\pruebaMidasoftBack.Core.pdb
+C:\Users\Cristian\source\repos\Personal Proyects\Prueba\PruebaTecnicaMidasoft\pruebaMidasoftBack\Core\obj\Debug\net6.0\pruebaMidasoftBack.Core.csproj.AssemblyReference.cache
+C:\Users\Cristian\source\repos\Personal Proyects\Prueba\PruebaTecnicaMidasoft\pruebaMidasoftBack\Core\obj\Debug\net6.0\pruebaMidasoftBack.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian\source\repos\Personal Proyects\Prueba\PruebaTecnicaMidasoft\pruebaMidasoftBack\Core\obj\Debug\net6.0\pruebaMidasoftBack.Core.AssemblyInfoInputs.cache
+C:\Users\Cristian\source\repos\Personal Proyects\Prueba\PruebaTecnicaMidasoft\pruebaMidasoftBack\Core\obj\Debug\net6.0\pruebaMidasoftBack.Core.AssemblyInfo.cs
+C:\Users\Cristian\source\repos\Personal Proyects\Prueba\PruebaTecnicaMidasoft\pruebaMidasoftBack\Core\obj\Debug\net6.0\pruebaMidasoftBack.Core.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\source\repos\Personal Proyects\Prueba\PruebaTecnicaMidasoft\pruebaMidasoftBack\Core\obj\Debug\net6.0\pruebaMidasoftBack.Core.dll
+C:\Users\Cristian\source\repos\Personal Proyects\Prueba\PruebaTecnicaMidasoft\pruebaMidasoftBack\Core\obj\Debug\net6.0\refint\pruebaMidasoftBack.Core.dll
+C:\Users\Cristian\source\repos\Personal Proyects\Prueba\PruebaTecnicaMidasoft\pruebaMidasoftBack\Core\obj\Debug\net6.0\pruebaMidasoftBack.Core.pdb
+C:\Users\Cristian\source\repos\Personal Proyects\Prueba\PruebaTecnicaMidasoft\pruebaMidasoftBack\Core\obj\Debug\net6.0\ref\pruebaMidasoftBack.Core.dll

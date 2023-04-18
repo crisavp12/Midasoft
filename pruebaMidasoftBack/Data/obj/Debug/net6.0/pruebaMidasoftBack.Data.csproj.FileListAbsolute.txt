@@ -1,0 +1,15 @@
+C:\Users\Cristian\source\repos\Personal Proyects\Prueba\PruebaTecnicaMidasoft\pruebaMidasoftBack\Data\obj\Debug\net6.0\pruebaMidasoftBack.Data.csproj.AssemblyReference.cache
+C:\Users\Cristian\source\repos\Personal Proyects\Prueba\PruebaTecnicaMidasoft\pruebaMidasoftBack\Data\obj\Debug\net6.0\pruebaMidasoftBack.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian\source\repos\Personal Proyects\Prueba\PruebaTecnicaMidasoft\pruebaMidasoftBack\Data\obj\Debug\net6.0\pruebaMidasoftBack.Data.AssemblyInfoInputs.cache
+C:\Users\Cristian\source\repos\Personal Proyects\Prueba\PruebaTecnicaMidasoft\pruebaMidasoftBack\Data\obj\Debug\net6.0\pruebaMidasoftBack.Data.AssemblyInfo.cs
+C:\Users\Cristian\source\repos\Personal Proyects\Prueba\PruebaTecnicaMidasoft\pruebaMidasoftBack\Data\obj\Debug\net6.0\pruebaMidasoftBack.Data.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\source\repos\Personal Proyects\Prueba\PruebaTecnicaMidasoft\pruebaMidasoftBack\Data\bin\Debug\net6.0\pruebaMidasoftBack.Data.deps.json
+C:\Users\Cristian\source\repos\Personal Proyects\Prueba\PruebaTecnicaMidasoft\pruebaMidasoftBack\Data\bin\Debug\net6.0\pruebaMidasoftBack.Data.dll
+C:\Users\Cristian\source\repos\Personal Proyects\Prueba\PruebaTecnicaMidasoft\pruebaMidasoftBack\Data\bin\Debug\net6.0\pruebaMidasoftBack.Data.pdb
+C:\Users\Cristian\source\repos\Personal Proyects\Prueba\PruebaTecnicaMidasoft\pruebaMidasoftBack\Data\bin\Debug\net6.0\pruebaMidasoftBack.Core.dll
+C:\Users\Cristian\source\repos\Personal Proyects\Prueba\PruebaTecnicaMidasoft\pruebaMidasoftBack\Data\bin\Debug\net6.0\pruebaMidasoftBack.Core.pdb
+C:\Users\Cristian\source\repos\Personal Proyects\Prueba\PruebaTecnicaMidasoft\pruebaMidasoftBack\Data\obj\Debug\net6.0\pruebaMidasoftBack.Data.csproj.CopyComplete
+C:\Users\Cristian\source\repos\Personal Proyects\Prueba\PruebaTecnicaMidasoft\pruebaMidasoftBack\Data\obj\Debug\net6.0\pruebaMidasoftBack.Data.dll
+C:\Users\Cristian\source\repos\Personal Proyects\Prueba\PruebaTecnicaMidasoft\pruebaMidasoftBack\Data\obj\Debug\net6.0\refint\pruebaMidasoftBack.Data.dll
+C:\Users\Cristian\source\repos\Personal Proyects\Prueba\PruebaTecnicaMidasoft\pruebaMidasoftBack\Data\obj\Debug\net6.0\pruebaMidasoftBack.Data.pdb
+C:\Users\Cristian\source\repos\Personal Proyects\Prueba\PruebaTecnicaMidasoft\pruebaMidasoftBack\Data\obj\Debug\net6.0\ref\pruebaMidasoftBack.Data.dll
